@@ -1,0 +1,60 @@
+La Comarca
+
+          presupuesto sitio web
+                                                                                             Valido Hasta 28/9/2021  
+          Nombre:                        Fecha:           Nº proyecto
+          Ignacio caceres ortiz          8/9/2021             1         
+
+
+                          
+                   P.   Descripcion                                                   cat.    precio total 
+               ----------------------------------------------------------------------------------------------------
+                   01    Diseño del sitio                                                  1       20.000$
+               ----------------------------------------------------------------------------------------------------
+                   02    Desarollo del sitio                                               1       60.000$
+               ----------------------------------------------------------------------------------------------------
+                   03    SEO Standard                                                      1        8.000$
+               ----------------------------------------------------------------------------------------------------
+                                                                              sub total            88.000$
+                                                                         ------------------------------------------
+                                                                            I.V.A (21%)            18.480$
+                                                                         ------------------------------------------
+                                                                                  TOTAL           106.480$ 
+   
+
+
+
+
+
+
+
+
+ Contacto                          Terminos       * El pago se realisara en dos sesiones 50% al inicion y 50% al final
+ telefono:3541-208639              Condiciones    * Una vez aprobado el presupuesto se hara un contrato que devera firmar 
+ W.ignaciocaceres123@hotmail.com                    el cliente y el proveedor 
+
+
+
+
+
+
+
+
+ Servicios Detallados 
+
+
+
+
+ Diseño del sitio 
+ -Diseño de la frameworks para definir la estructura  del sitio. 
+ -Diseño de la pagina (pagina prinsipal,entrada,pastas,pizza,bebida,postre)en version desktop,mobail y tablets.
+ 
+ Desarollo del sitio web
+ -Creacion y desarollo de las paginas diseñadas previamente.
+
+ SEO Basic  
+ -agregasiond e descripsion
+ -mejorar calidad de imagenes
+ -registrar en sitio en github
+    
+    
